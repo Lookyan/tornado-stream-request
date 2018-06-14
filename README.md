@@ -1,5 +1,11 @@
 # Tornado Streaming Parser
 
+## Installation
+
+```
+pip install tornado-streaming-parser
+```
+
 ## Example with filestorage
 
 ```python
