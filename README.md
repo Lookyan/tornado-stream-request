@@ -1,8 +1,8 @@
 # Tornado Streaming Parser
 
-## Example with mongodb
+## Example with filestorage
 
-```
+```python
 @stream_request_body
 class UploadHandler(BaseHandler, StreamingFormDataParserDelegate):
 
